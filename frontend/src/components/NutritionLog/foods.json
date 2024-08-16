@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Apple",
+      "calories": 52,
+      "proteins": 0.3,
+      "carbohydrates": 14,
+      "fats": 0.2,
+      "servingSize": 100
+    },
+    {
+      "name": "Banana",
+      "calories": 89,
+      "proteins": 1.1,
+      "carbohydrates": 23,
+      "fats": 0.3,
+      "servingSize": 100
+    },
+    {
+      "name": "Chicken Breast",
+      "calories": 165,
+      "proteins": 31,
+      "carbohydrates": 0,
+      "fats": 3.6,
+      "servingSize": 100
+    }
+    
+  ]
+  

@@ -1,0 +1,47 @@
+/* src/components/ActivityEntryForm.css */
+
+.activity-entry-form {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px); /* Adds a blur effect for a better visual */
+  }
+  
+  .input-text {
+    background-color: rgba(255, 255, 255, 0.6); /* Slightly transparent input fields */
+    border-radius: 5px;
+  }
+  
+  .button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDZ8fGZpdG5lc3MlMjBoZWFsdGh8ZW58MHx8fHwxNjk0NzY4NzMy&ixlib=rb-4.0.3&q=80&w=1080');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333; /* Dark text for contrast */
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+  }
+  /* src/components/ScrollingImages.css */
+
+@keyframes scrollImages {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-66.66%); /* Moves the images by the width of two images */
+    }
+  }
+  
+  
+  

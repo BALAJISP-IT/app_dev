@@ -1,0 +1,26 @@
+/* src/components/UserGoals/UserGoals.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Roboto:wght@300;400;500&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+.text-field {
+  font-family: 'Roboto', sans-serif;
+}
+
+.button {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.goal-title {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-top: 30px;
+  font-size: 2em;
+}
